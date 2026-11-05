@@ -1,0 +1,6 @@
+# Hasil skrip dibuat ulang di komputer masing-masing
+output/*
+!output/.gitkeep
+__pycache__/
+.venv/
+*.pbix
